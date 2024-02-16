@@ -1,0 +1,14 @@
+C:\Users\carl.halen\Documents\Programmering\vinterprojekt 3\yo1\bin\Debug\net7.0\yo1.exe
+C:\Users\carl.halen\Documents\Programmering\vinterprojekt 3\yo1\bin\Debug\net7.0\yo1.deps.json
+C:\Users\carl.halen\Documents\Programmering\vinterprojekt 3\yo1\bin\Debug\net7.0\yo1.runtimeconfig.json
+C:\Users\carl.halen\Documents\Programmering\vinterprojekt 3\yo1\bin\Debug\net7.0\yo1.dll
+C:\Users\carl.halen\Documents\Programmering\vinterprojekt 3\yo1\bin\Debug\net7.0\yo1.pdb
+C:\Users\carl.halen\Documents\Programmering\vinterprojekt 3\yo1\obj\Debug\net7.0\yo1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\carl.halen\Documents\Programmering\vinterprojekt 3\yo1\obj\Debug\net7.0\yo1.AssemblyInfoInputs.cache
+C:\Users\carl.halen\Documents\Programmering\vinterprojekt 3\yo1\obj\Debug\net7.0\yo1.AssemblyInfo.cs
+C:\Users\carl.halen\Documents\Programmering\vinterprojekt 3\yo1\obj\Debug\net7.0\yo1.csproj.CoreCompileInputs.cache
+C:\Users\carl.halen\Documents\Programmering\vinterprojekt 3\yo1\obj\Debug\net7.0\yo1.dll
+C:\Users\carl.halen\Documents\Programmering\vinterprojekt 3\yo1\obj\Debug\net7.0\refint\yo1.dll
+C:\Users\carl.halen\Documents\Programmering\vinterprojekt 3\yo1\obj\Debug\net7.0\yo1.pdb
+C:\Users\carl.halen\Documents\Programmering\vinterprojekt 3\yo1\obj\Debug\net7.0\yo1.genruntimeconfig.cache
+C:\Users\carl.halen\Documents\Programmering\vinterprojekt 3\yo1\obj\Debug\net7.0\ref\yo1.dll
